@@ -2,7 +2,7 @@
 ![alt text](pic/IMG_6592.jpeg)
 ![alt text](pic/IMG_6594.jpeg)
 
-# Mirai OS build instruction
+# Mirai OS image build instruction
 #### FYI Pi-Gen had been modified to support a custom kernel for Raspberry Pi CM4+Clockwork Pi motherboard or U-console.
 #### Original Fork of Pi-Gen from Raspberry Pi: [Official Link](https://github.com/RPi-Distro/pi-gen), [Official Document about Kernel from Raspberry Pi](https://www.raspberrypi.com/documentation/computers/linux_kernel.html) 
 #### Original Fork from U-console CM4 OS-image: [Support Link](https://github.com/cuu/pi-gen/tree/uconsole_arm64)
